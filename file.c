@@ -9,7 +9,7 @@ int main (){
 #if x>y
 printf("%d" , x);
 #elif x<y
-printf("%d",y);
+printf("x = %d",y);
 #else
 printf("equal");
 #endif

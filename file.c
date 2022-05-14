@@ -7,7 +7,7 @@ int main (){
 
 
 #if x>y
-printf("x = %d" , x);
+printf("x equal = %d" , x);
 #elif x<y
 printf("y= %d",y);
 #else
